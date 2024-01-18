@@ -27,9 +27,9 @@ linkedin_username: aparabos
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+- title: Malt
+  icon: fas fa-globe
+  url: https://www.malt.fr/profile/alexisparaboschi
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -87,16 +87,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Junior Software Engineer
         caption: May 2022 - Feb 2023
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
         title: Airfree
         link: https://www.dashlane.com/
         # link_text: boringcompany.com
         sub_title: Junior Software Engineer
         caption: May 2022 - Feb 2023
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
         title: Airfree
         link: https://www.airfree.aero
@@ -105,8 +101,6 @@ content:
         caption: Sept 2021 - May 2022
         quote: >
           Marketplace of the sky
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
         - layout: left
         title: Airfree
         link: https://www.airfree.aero
@@ -114,33 +108,61 @@ content:
         sub_title: Front-end developer
         caption: Jun 2019 - May 2022
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.      
+            airfree provides an e-commerce platform specifically designed for inflight use.
+            The marketplace is integrated directly into the screens behind the aircraft seats.     
+        - layout: left
+        title: Freelance
+        link: https://www.malt.fr/profile/alexisparaboschi
+        # link_text: boringcompany.com
+        sub_title: React/React-Native
+        caption: Feb 2019 - May 2019
+        description: | # this will include new lines to allow paragraphs
+            - Creation of an application for self-service bicycle rental.
+            - Creation of an application to facilitate the management of patients in emergencies
+        - layout: left
+        title: Marine Nationale (French Navy)
+        link: https://www.defense.gouv.fr/marine
+        # link_text: boringcompany.com
+        sub_title: Mobile developer
+        caption: Sept 2018 - Apr 2019
+        description: | # this will include new lines to allow paragraphs
+            Creation of a mobile application within the CEPN (Centre d’expertise des programmes navals).
+            The objective of this application was to allow boaters to navigate using a mobile application displaying the seabed, as well as to allow boaters to highlight hazards they encounter (logs/containers) so that other users of the application can find out about hazards near their boat.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: 42
+        caption: 2017 - 2020
+        sub_title: IT
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          42 is a future-proof computer science training to educate the next generation of software engineers.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Project-based pedagogy
+          Activities and Associations:
+            - Student and Senior Tutor.
+            - Responsible for examinations.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Activities as a tutor:
+            - Supervision of the 'Start-Up Launchpad' partnership in collaboration with HEC and STRATE.
+            - Supervision of the 'Design Thinking' partnership in collaboration with HEC.
+            - Supervision of the 'Start-Up 4 Kids' weekend.
+            - Management and supervision of the 42 exams.
+      - layout: left
+        title: EPITECH
+        caption: 2014 - 2015
+        sub_title: IT
+        quote: >
+          42 is a future-proof computer science training to educate the next generation of software engineers.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Music (I play violin in an orchestra)
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Cycling and running
 
 # Footer
 footer_show_references: true
