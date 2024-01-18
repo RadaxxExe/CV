@@ -121,14 +121,14 @@ content:
       sub_title: Mobile developer
       caption: Sept 2018 - Apr 2019
       description: | # this will include new lines to allow paragraphs
-        Creation of a mobile application within the CEPN (Centre d’expertise des programmes navals).
+        Creation of a mobile application within the CEPN (Centre d"expertise des programmes navals).
         The objective of this application was to allow boaters to navigate using a mobile application displaying the seabed, as well as to allow boaters to highlight hazards they encounter (logs/containers) so that other users of the application can find out about hazards near their boat.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 42
+        title: "42"
         caption: 2017 - 2020
         sub_title: IT
         quote: >
