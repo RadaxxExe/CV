@@ -46,7 +46,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Alexis and I'm a software engineer specializing in web development. I've worked on many projects, from airplane marketplaces, to mobile applications for self-service bicycles, to complex web extensions.
 
-  I am most skilled in: <mark>React</mark>, <mark>React-Native</mark> and <mark>playing music</mark>
+  I am most skilled in: <mark>React</mark>, <mark>React-Native</mark>
 
 content:
   # - title: Projects # Title for the section
@@ -71,69 +71,58 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Dashlane
-        link: https://www.dashlane.com/
-        # link_text: boringcompany.com
-        sub_title: Software Engineer
-        caption: Feb 2023 - Present
-        quote: >
-          The security-first password manager
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-          
-      - layout: left
-        title: Dashlane
-        link: https://www.dashlane.com/
-        # link_text: boringcompany.com
-        sub_title: Junior Software Engineer
-        caption: May 2022 - Feb 2023
-
-      - layout: left
-        title: Airfree
-        link: https://www.dashlane.com/
-        # link_text: boringcompany.com
-        sub_title: Junior Software Engineer
-        caption: May 2022 - Feb 2023
-
-      - layout: left
-        title: Airfree
-        link: https://www.airfree.aero
-        # link_text: boringcompany.com
-        sub_title: Operation & Support Engineer
-        caption: Sept 2021 - May 2022
-        quote: >
-          Marketplace of the sky
-
-      - layout: left
+    - layout: left
+      title: Dashlane
+      link: https://www.dashlane.com/
+      sub_title: Software Engineer
+      caption: Feb 2023 - Present
+      quote: >
+        The security-first password manager
+      description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.       
+    - layout: left
+      title: Dashlane
+      link: https://www.dashlane.com/
+      sub_title: Junior Software Engineer
+      caption: May 2022 - Feb 2023
+    - layout: left
+      title: Airfree
+      link: https://www.dashlane.com/
+      sub_title: Junior Software Engineer
+      caption: May 2022 - Feb 2023
+    - layout: left
       title: Airfree
       link: https://www.airfree.aero
-      # link_text: boringcompany.com
+      sub_title: Operation & Support Engineer
+      caption: Sept 2021 - May 2022
+      quote: >
+        Marketplace of the sky
+    - layout: left
+      title: Airfree
+      link: https://www.airfree.aero
       sub_title: Front-end developer
       caption: Jun 2019 - May 2022
       description: | # this will include new lines to allow paragraphs
-          airfree provides an e-commerce platform specifically designed for inflight use.
-          The marketplace is integrated directly into the screens behind the aircraft seats.    
+        airfree provides an e-commerce platform specifically designed for inflight use.
+        The marketplace is integrated directly into the screens behind the aircraft seats.    
 
-      - layout: left
+    - layout: left
       title: Freelance
       link: https://www.malt.fr/profile/alexisparaboschi
-      # link_text: boringcompany.com
       sub_title: React/React-Native
       caption: Feb 2019 - May 2019
       description: | # this will include new lines to allow paragraphs
           - Creation of an application for self-service bicycle rental.
           - Creation of an application to facilitate the management of patients in emergencies
-          
-      - layout: left
+        
+    - layout: left
       title: Marine Nationale (French Navy)
       link: https://www.defense.gouv.fr/marine
-      # link_text: boringcompany.com
       sub_title: Mobile developer
       caption: Sept 2018 - Apr 2019
       description: | # this will include new lines to allow paragraphs
-          Creation of a mobile application within the CEPN (Centre d’expertise des programmes navals).
-          The objective of this application was to allow boaters to navigate using a mobile application displaying the seabed, as well as to allow boaters to highlight hazards they encounter (logs/containers) so that other users of the application can find out about hazards near their boat.  
+        Creation of a mobile application within the CEPN (Centre d’expertise des programmes navals).
+        The objective of this application was to allow boaters to navigate using a mobile application displaying the seabed, as well as to allow boaters to highlight hazards they encounter (logs/containers) so that other users of the application can find out about hazards near their boat.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -155,6 +144,7 @@ content:
             - Supervision of the 'Design Thinking' partnership in collaboration with HEC.
             - Supervision of the 'Start-Up 4 Kids' weekend.
             - Management and supervision of the 42 exams.
+
       - layout: left
         title: EPITECH
         caption: 2014 - 2015
@@ -165,7 +155,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in software engineering some of my other interests and hobbies are:
       - Music (I play violin in an orchestra)
       - Gaming
       - Cycling and running
