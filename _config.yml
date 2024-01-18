@@ -105,35 +105,35 @@ content:
         quote: >
           Marketplace of the sky
 
-        - layout: left
-        title: Airfree
-        link: https://www.airfree.aero
-        # link_text: boringcompany.com
-        sub_title: Front-end developer
-        caption: Jun 2019 - May 2022
-        description: | # this will include new lines to allow paragraphs
-            airfree provides an e-commerce platform specifically designed for inflight use.
-            The marketplace is integrated directly into the screens behind the aircraft seats.    
+      - layout: left
+      title: Airfree
+      link: https://www.airfree.aero
+      # link_text: boringcompany.com
+      sub_title: Front-end developer
+      caption: Jun 2019 - May 2022
+      description: | # this will include new lines to allow paragraphs
+          airfree provides an e-commerce platform specifically designed for inflight use.
+          The marketplace is integrated directly into the screens behind the aircraft seats.    
 
-        - layout: left
-        title: Freelance
-        link: https://www.malt.fr/profile/alexisparaboschi
-        # link_text: boringcompany.com
-        sub_title: React/React-Native
-        caption: Feb 2019 - May 2019
-        description: | # this will include new lines to allow paragraphs
-            - Creation of an application for self-service bicycle rental.
-            - Creation of an application to facilitate the management of patients in emergencies
-            
-        - layout: left
-        title: Marine Nationale (French Navy)
-        link: https://www.defense.gouv.fr/marine
-        # link_text: boringcompany.com
-        sub_title: Mobile developer
-        caption: Sept 2018 - Apr 2019
-        description: | # this will include new lines to allow paragraphs
-            Creation of a mobile application within the CEPN (Centre d’expertise des programmes navals).
-            The objective of this application was to allow boaters to navigate using a mobile application displaying the seabed, as well as to allow boaters to highlight hazards they encounter (logs/containers) so that other users of the application can find out about hazards near their boat.  
+      - layout: left
+      title: Freelance
+      link: https://www.malt.fr/profile/alexisparaboschi
+      # link_text: boringcompany.com
+      sub_title: React/React-Native
+      caption: Feb 2019 - May 2019
+      description: | # this will include new lines to allow paragraphs
+          - Creation of an application for self-service bicycle rental.
+          - Creation of an application to facilitate the management of patients in emergencies
+          
+      - layout: left
+      title: Marine Nationale (French Navy)
+      link: https://www.defense.gouv.fr/marine
+      # link_text: boringcompany.com
+      sub_title: Mobile developer
+      caption: Sept 2018 - Apr 2019
+      description: | # this will include new lines to allow paragraphs
+          Creation of a mobile application within the CEPN (Centre d’expertise des programmes navals).
+          The objective of this application was to allow boaters to navigate using a mobile application displaying the seabed, as well as to allow boaters to highlight hazards they encounter (logs/containers) so that other users of the application can find out about hazards near their boat.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
