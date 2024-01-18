@@ -81,12 +81,6 @@ content:
       description: | # this will include new lines to allow paragraphs
           Security-first password manager for any device, browser, or platform
     - layout: left
-      title: Dashlane
-      link: https://www.dashlane.com/
-      sub_title: Junior Software Engineer
-      caption: May 2022 - Feb 2023
-    - layout: left
-      title: Airfree
       link: https://www.dashlane.com/
       sub_title: Junior Software Engineer
       caption: May 2022 - Feb 2023
