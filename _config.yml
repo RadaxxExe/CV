@@ -44,10 +44,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alexis and I'm a software engineer specializing in web development. I've worked on many projects, from airplane marketplaces, to mobile applications for self-service bicycles, to complex web extensions.
-
-  I am most skilled in: <mark>React</mark>, <mark>React-Native</mark>
-
+  Hi, my name is Alexis and I'm a software engineer specializing in web development specifically in <mark>React</mark> and <mark>React-Native</mark>.. I've worked on many projects, from airplane marketplaces, to mobile applications for self-service bicycles, to complex web extensions.
+  
+  I enjoy working in a dynamic and challenging environment.
+ 
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -102,7 +102,6 @@ content:
       quote: >
         Marketplace of the sky
     - layout: left
-      title: Airfree
       link: https://www.airfree.aero
       sub_title: Front-end developer
       caption: Jun 2019 - May 2022
